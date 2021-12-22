@@ -1,9 +1,0 @@
-flask
-werkzeug
-tensorflow
-base64
-numpy
-PIL
-logging
-cv2
-pydicom
