@@ -1,7 +1,0 @@
-flask
-werkzeug
-tensorflow
-numpy
-PIL
-cv2
-pydicom
