@@ -1,0 +1,12 @@
+Flask
+gunicorn
+itsdangerous
+click
+scikit-learn
+Werkzeug
+numpy
+MarkupSafe
+os
+tensorflow
+pydicom
+cv2
