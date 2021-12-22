@@ -1,5 +1,0 @@
-flask
-werkzeug
-tensorflow
-numpy
-pydicom
