@@ -2,5 +2,4 @@ flask
 werkzeug
 tensorflow
 numpy
-opencv
 pydicom
