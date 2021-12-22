@@ -1,0 +1,10 @@
+flask
+werkzeug
+tensorflow
+io
+base64
+numpy
+PIL
+logging
+cv2
+pydicom
