@@ -1,0 +1,6 @@
+flask
+werkzeug
+tensorflow
+numpy
+cv2
+pydicom
